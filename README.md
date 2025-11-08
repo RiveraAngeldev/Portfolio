@@ -31,7 +31,7 @@ Este repositorio contiene mi portafolio personal como desarrollador frontend y e
 ## 🔗 Demo en Vivo
 
 Visualiza el portafolio en línea:  
-👉 [👉 [[https://riveraangeldev.github.io/Portafolio/](https://riveraangeldev.github.io/Portafolio/](https://riveraangeldev.github.io/Portfolio/)))
+👉 [[https://riveraangeldev.github.io/Portafolio/](https://riveraangeldev.github.io/Portafolio/](https://riveraangeldev.github.io/Portfolio/))
 
 ## 📬 Contacto
 
