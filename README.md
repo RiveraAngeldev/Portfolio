@@ -1,6 +1,6 @@
 # 🌐 Portafolio Web - Angel Rivera
 
-Este repositorio contiene mi portafolio personal como desarrollador frontend y estudiante de Ingeniería en Software. Está diseñado para mostrar mis habilidades técnicas, proyectos destacados y una forma de contacto profesional.
+Este repositorio contiene mi portafolio personal como desarrollador frontend y estudiante de Ingeniería en Computadora. Está diseñado para mostrar mis habilidades técnicas, proyectos destacados y una forma de contacto profesional.
 
 ## 🧠 Sobre mí
 
